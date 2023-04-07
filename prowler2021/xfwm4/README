@@ -1,0 +1,13 @@
+Copyrights:
+         Prowler theme was originally created by vStyler for Windowblinds
+         - Website: https://www.wincustomize.com/users/1636296/vStyler
+         All credits for the creativity goes to him.
+
+----------------------
+Port GTK3 XFWM4 and Metacity created by Aravisian
+
+HACKING (If it can be called that...): I set this to come with OTS enabled. If you wish to not have the Stick and Shade buttons on the left side, open the themerc and where you see OTS|HMC, remove the TS to make it O|HMC
+
+
+License:
+- Only for personal desktop use
