@@ -4,7 +4,7 @@ prowler2021-gtk
 Prowler2021 Desktop and XFWM4 Theme -wall and LightDM background included for user use
 Copyrights:
          This theme was originally a Windows Wincustomize WindowBlinds theme designed and created by vStyler. This gtk3 port was created and heavily modified as a dark theme with new UI elements by Aravisian.
-         - E-mail: aravisian@protonmail.com, aravisian@gmail.com, aravisian@yahoo.com
+         - E-mail: aravisian@protonmail.com, aravisian@gmail.com, aravisian@yahoo.com, aravisian@tutanota.com, aravisian@disroot.com, aravisian@e.email.com
 
 
 License:
